@@ -1,0 +1,13 @@
+#!/bin/bash
+mkdir "01 - Notizen"
+mkdir "02 - Gesellschafterlisten"
+mkdir "03 - Satzung"
+mkdir "04 - EAV"
+mkdir "05 - Handelsregister"
+mkdir "06 - Beschlüsse"
+mkdir "07 - SPA-APA-M&A"
+mkdir "08 - SHA"
+mkdir "09 - Sonstiges"
+mkdir "10 - Regulatory"
+mkdir "11 - Rechtsstreitigkeiten"
+echo "Ordner angelegt bzw. ergänzt."

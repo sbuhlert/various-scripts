@@ -1,0 +1,14 @@
+- /home/steffenbuhlert/Documents/ViberDownloads/
+- /home/steffenbuhlert/Documents/Desktop\ Folder/
+- /home/steffenbuhlert/Documents/Website/
+- /home/steffenbuhlert/Documents/Scrivener\ Scratchpad-Notizen/
+- /home/steffenbuhlert/Documents/TheVolumeSettingsFolder/
+- /home/steffenbuhlert/Documents/Trash/
+- /home/steffenbuhlert/Documents/WebEx/
++ /home/steffenbuhlert/Documents/current/
++ /home/steffenbuhlert/Documents/GitHub/
++ /home/steffenbuhlert/Documents/privat/
++ /home/steffenbuhlert/Documents/Softmaker/
++ /home/steffenbuhlert/Documents/Rechtsanwalt/
++ /home/steffenbuhlert/Documents/Bookends/
++ /home/steffenbuhlert/Documents/Outlines/
